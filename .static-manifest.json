@@ -1,0 +1,15 @@
+{
+    "domain": "medyfis.com.co",
+    "base_url": "http:\/\/medyfis.com.co",
+    "pages": 9,
+    "assets": 32,
+    "total_files": 41,
+    "total_size_mb": 2.01,
+    "output_dir": "\/tmp\/static-export\/medyfis.com.co",
+    "pages_failed": [
+        "http:\/\/medyfis.com.co\/comments\/feed\/",
+        "http:\/\/medyfis.com.co\/feed\/"
+    ],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 16:14:06"
+}
